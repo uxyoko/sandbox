@@ -2,7 +2,7 @@
 
 This lesson will help you learn how to combine some Javascript with HTML and CSS! And it'll be fun!
 
-####Steps:
+#### Steps:
 
 #### HTML/CSS
 1. Put a picture of a cat in the middle of the page! 
