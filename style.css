@@ -3,3 +3,9 @@ body {
 	font-weight: 200;
 	color: pink;
 }
+
+img {
+ margin: 0 auto;
+ border: 8px solid pink;
+
+}
